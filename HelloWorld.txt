@@ -1,0 +1,6 @@
+•	Step 5: Open a pull request
+o	Using pull requests, you can ask someone to review your contributions before merge them to the master branch or some other branch. 
+o	It is possible open a pull request as soon as you make a commit.
+o	You can use “mention” system to ask someone to give feedback
+o	It is possible to open up pull requests yourself and merge them yourself.
+o	Create a pull request and give it the title “HelloWorld.asm created”
